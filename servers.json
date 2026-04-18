@@ -1,1 +1,1 @@
-{"error":"unauthorized"}
+[{"id": 17, "name": "VMESS-123", "country": "India", "flag": "\ud83c\udf10", "protocol": "vmess", "is_free": true, "priority": 0, "price_tmt": 52, "price_days": 30}, {"id": 18, "name": "VMESS-7", "country": "Unknown", "flag": "\ud83c\udf10", "protocol": "vmess", "is_free": true, "priority": 0, "price_tmt": 52, "price_days": 30}]
