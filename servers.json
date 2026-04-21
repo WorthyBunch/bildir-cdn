@@ -1,1 +1,1 @@
-[{"id": 30, "name": "SHADOWSOCKS-115", "country": "Unknown", "flag": "🌐", "protocol": "shadowsocks", "is_free": false, "priority": 0, "price_tmt": 52.0, "price_days": 30}, {"id": 31, "name": "TROJAN-155", "country": "Unknown", "flag": "🌐", "protocol": "trojan", "is_free": false, "priority": 0, "price_tmt": 52.0, "price_days": 30}]
+[{"id": 32, "name": "VMESS-162", "country": "1", "flag": "🌐", "protocol": "vmess", "is_free": false, "priority": 0, "price_tmt": 52.0, "price_days": 30}]
